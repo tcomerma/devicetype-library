@@ -1,0 +1,65 @@
+---
+manufacturer: Extreme Networks
+model: S4-Chassis
+slug: s4-chassis
+part_number: S4-Chassis
+u_height: 14.5
+is_full_depth: true
+comments: Extreme Networks -formerly Enterasys- S series chassis, 4 slots
+power-ports:
+  - name: PSU1
+    type: iec-60320-c20
+    maximum_draw: 1200
+  - name: PSU2
+    type: iec-60320-c20
+    maximum_draw: 1200
+  - name: PSU3
+    type: iec-60320-c20
+    maximum_draw: 1200
+  - name: PSU4
+    type: iec-60320-c20
+    maximum_draw: 1200
+module-bays:
+  - name: Slot 1
+    position: '1'
+    label: I/O Module
+  - name: Slot 1-1
+    position: '1.1'
+    label: Option Module
+  - name: Slot 1-2
+    position: '1.2'
+    label: Option Module
+  - name: Slot 2
+    position: '2'
+    label: I/O Module
+  - name: Slot 2-1
+    position: '2.1'
+    label: Option Module
+  - name: Slot 2-2
+    position: '2.2'
+    label: Option Module
+  - name: Slot 3
+    position: '3'
+    label: I/O Module
+  - name: Slot 3-1
+    position: '3.1'
+    label: Option Module
+  - name: Slot 3-2
+    position: '3.2'
+    label: Option Module
+  - name: Slot 4
+    position: '4'
+    label: Fabric Module
+  - name: Slot 4-1
+    position: '4.1'
+    label: Option Module
+  - name: Slot 4-2
+    position: '4.2'
+    label: Option Module
+console-ports:
+  - name: Serial-F4
+    type: rj-45
+  - name: Serial-F5
+    type: rj-45
+  - name: Serial-F6
+    type: rj-45

@@ -1,0 +1,62 @@
+---
+manufacturer: Extreme Networks
+model: SK8008-1224-F8
+part_number: '9404625'
+comments: S-Series S180 Class I/O - Fabric Module, Load Sharing - 24 Ports 10GBASE-X via SFP+, 4 ports VSB via SFP+ (Used in S1A/S4/S6/S8)
+interfaces:
+  - name: tg.{module}.1
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.2
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.3
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.4
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.5
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.6
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.7
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.8
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.9
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.10
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.11
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.12
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.13
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.14
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.15
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.16
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.17
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.18
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.19
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.20
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.21
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.22
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.23
+    type: 10gbase-x-sfpp
+  - name: tg.{module}.24
+    type: 10gbase-x-sfpp
+  - name: vsb.{module}.1
+    type: 10gbase-x-sfpp
+  - name: vsb.{module}.2
+    type: 10gbase-x-sfpp
+  - name: vsb.{module}.3
+    type: 10gbase-x-sfpp
+  - name: vsb.{module}.4
+    type: 10gbase-x-sfpp

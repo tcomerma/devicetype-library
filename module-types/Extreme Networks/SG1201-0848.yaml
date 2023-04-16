@@ -1,0 +1,102 @@
+---
+manufacturer: Extreme Networks
+model: SG1201-0848
+part_number: '9404433'
+comments: S-Series S150 Class I/O Module - 48 Ports 1000BASE-X ports via SFP and two Type2 option slot (Used in S3/S4/S6/S8)
+interfaces:
+  - name: ge.{module}.1
+    type: 1000base-x-sfp
+  - name: ge.{module}.2
+    type: 1000base-x-sfp
+  - name: ge.{module}.3
+    type: 1000base-x-sfp
+  - name: ge.{module}.4
+    type: 1000base-x-sfp
+  - name: ge.{module}.5
+    type: 1000base-x-sfp
+  - name: ge.{module}.6
+    type: 1000base-x-sfp
+  - name: ge.{module}.7
+    type: 1000base-x-sfp
+  - name: ge.{module}.8
+    type: 1000base-x-sfp
+  - name: ge.{module}.9
+    type: 1000base-x-sfp
+  - name: ge.{module}.10
+    type: 1000base-x-sfp
+  - name: ge.{module}.11
+    type: 1000base-x-sfp
+  - name: ge.{module}.12
+    type: 1000base-x-sfp
+  - name: ge.{module}.13
+    type: 1000base-x-sfp
+  - name: ge.{module}.14
+    type: 1000base-x-sfp
+  - name: ge.{module}.15
+    type: 1000base-x-sfp
+  - name: ge.{module}.16
+    type: 1000base-x-sfp
+  - name: ge.{module}.17
+    type: 1000base-x-sfp
+  - name: ge.{module}.18
+    type: 1000base-x-sfp
+  - name: ge.{module}.19
+    type: 1000base-x-sfp
+  - name: ge.{module}.20
+    type: 1000base-x-sfp
+  - name: ge.{module}.21
+    type: 1000base-x-sfp
+  - name: ge.{module}.22
+    type: 1000base-x-sfp
+  - name: ge.{module}.23
+    type: 1000base-x-sfp
+  - name: ge.{module}.24
+    type: 1000base-x-sfp
+  - name: ge.{module}.25
+    type: 1000base-x-sfp
+  - name: ge.{module}.26
+    type: 1000base-x-sfp
+  - name: ge.{module}.27
+    type: 1000base-x-sfp
+  - name: ge.{module}.28
+    type: 1000base-x-sfp
+  - name: ge.{module}.29
+    type: 1000base-x-sfp
+  - name: ge.{module}.30
+    type: 1000base-x-sfp
+  - name: ge.{module}.31
+    type: 1000base-x-sfp
+  - name: ge.{module}.32
+    type: 1000base-x-sfp
+  - name: ge.{module}.33
+    type: 1000base-x-sfp
+  - name: ge.{module}.34
+    type: 1000base-x-sfp
+  - name: ge.{module}.35
+    type: 1000base-x-sfp
+  - name: ge.{module}.36
+    type: 1000base-x-sfp
+  - name: ge.{module}.37
+    type: 1000base-x-sfp
+  - name: ge.{module}.38
+    type: 1000base-x-sfp
+  - name: ge.{module}.39
+    type: 1000base-x-sfp
+  - name: ge.{module}.40
+    type: 1000base-x-sfp
+  - name: ge.{module}.41
+    type: 1000base-x-sfp
+  - name: ge.{module}.42
+    type: 1000base-x-sfp
+  - name: ge.{module}.43
+    type: 1000base-x-sfp
+  - name: ge.{module}.44
+    type: 1000base-x-sfp
+  - name: ge.{module}.45
+    type: 1000base-x-sfp
+  - name: ge.{module}.46
+    type: 1000base-x-sfp
+  - name: ge.{module}.47
+    type: 1000base-x-sfp
+  - name: ge.{module}.48
+    type: 1000base-x-sfp
